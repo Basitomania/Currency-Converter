@@ -1,0 +1,29 @@
+/* body{
+    background-color: aqua;
+}
+
+.main-panel{
+    margin-top: 100px;
+    margin:0 auto;
+}
+
+div.row{
+    padding: 10px;
+}
+.panel{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+} */
+
+div.row{
+    padding-top: 10px;
+}
+.main-panel{
+    margin-top: 100px;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding-left: 80px;
+}
